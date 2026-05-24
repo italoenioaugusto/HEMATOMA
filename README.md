@@ -7,3 +7,5 @@
 - 📫 How to reach me: italoenio@gmail.com 
 - 😄 Pronouns: Ele/Dele he/him 
 - ⚡ Fun fact: My first project is also my biggest challenge and to do make this, I will prepare today to do it at the future working and development better it 
+
+Comitando pela primeira vez por linha de comando
